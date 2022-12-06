@@ -1,0 +1,10 @@
+## Javier Codina here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+I am a games developer at Raccon and Sheep, currently working on [Nova:](https://novathegame.carrd.co/) [Cloudwalker's](https://novathegame.carrd.co/) [Tale.](https://novathegame.carrd.co/) Although I also love spending time coding different projects or developing games for Game Jams.
+
+Contact me at:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Javier_Codina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjaviercodina/)
+[![Twitter Badge](https://img.shields.io/badge/-@codinaFJ-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codinaFJ)](https://twitter.com/codinaFJ)
+[![Mail Badge](https://img.shields.io/badge/-Javier_Codina-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fjavier.codina@gmail.com)
+[![Itch.io Badge](https://img.shields.io/badge/-codinaFJ-fa5c5c?style=flat&labelColor=fa5c5c&logo=itch.io&logoColor=white)](https://codinafj.itch.io/)
