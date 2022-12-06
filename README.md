@@ -13,3 +13,11 @@ Contact me at:
 - :mag: Always looking for new projects and people to work with
 - :mailbox: How to reach me: fjavier.codina@gmail.com
 - :eyes: Others: I love playing piano and horror movies
+
+<br />
+
+![Unity Badge](https://img.shields.io/badge/-UNITY-white?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)
+
+#### Business
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :email: fjavier.codina@gmail.com
