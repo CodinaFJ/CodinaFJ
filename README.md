@@ -19,5 +19,5 @@ Contact me at:
 ![Unity Badge](https://img.shields.io/badge/-UNITY-white?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)
 
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/CodinaFJ/CodinaFJ/blob/master/Resume/Resume1.0.pdf)
 - :email: fjavier.codina@gmail.com
