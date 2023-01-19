@@ -20,7 +20,7 @@ Contact me at:
 ![Unity Badge](https://img.shields.io/badge/-UNITY-d1fff3?style=for-the-badge&labelColor=406b6e&logo=unity&logoColor=white)
 [![Unix Badge](https://img.shields.io/badge/-UNIX-ebebeb?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Unix)
 [![C Badge](https://img.shields.io/badge/-C_code-93BDFF?style=for-the-badge&labelColor=374760&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++ Badge](https://img.shields.io/badge/-C++_code-A2A8FD?style=for-the-badge&labelColor=3D3F5F&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++ Badge](https://img.shields.io/badge/-C++_code-B2B6FF?style=for-the-badge&labelColor=434460&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C# Badge](https://img.shields.io/badge/-CSharp_code-DB93FF?style=for-the-badge&labelColor=523760&logo=Csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 #### Business
