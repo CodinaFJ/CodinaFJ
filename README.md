@@ -21,7 +21,7 @@ Contact me at:
 [![Unix Badge](https://img.shields.io/badge/-UNIX-ebebeb?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Unix)
 [![C Badge](https://img.shields.io/badge/-C_coding-a1cdff?style=for-the-badge&labelColor=3b4e80&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++ Badge](https://img.shields.io/badge/-C++_coding-a1cdff?style=for-the-badge&labelColor=3b4e80&logo=Cpp&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C# Badge](https://img.shields.io/badge/-CSharp_coding-a1cdff?style=for-the-badge&labelColor=3b4e80&logo=Csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C# Badge](https://img.shields.io/badge/-C&#35_coding-a1cdff?style=for-the-badge&labelColor=3b4e80&logo=Csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/CodinaFJ/CodinaFJ/blob/master/Resume/Resume_EN_1.0.pdf)
