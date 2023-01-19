@@ -10,6 +10,7 @@ Contact me at:
 [![Itch.io Badge](https://img.shields.io/badge/-codinaFJ-fa5c5c?style=flat&labelColor=fa5c5c&logo=itch.io&logoColor=white)](https://codinafj.itch.io/)
 
 - :stars: Currently working on [Nova:](https://novathegame.carrd.co/) [Cloudwalker's](https://novathegame.carrd.co/) [Tale.](https://novathegame.carrd.co/)
+- :blue_book: Student at 42 Madrid. You can check my progress! -> [link to 42 projects]
 - :mag: Always looking for new projects and people to work with
 - :mailbox: How to reach me: fjavier.codina@gmail.com
 - :eyes: Others: I love playing piano and horror movies
