@@ -17,7 +17,7 @@ Contact me at:
 
 <br />
 
-![Unity Badge](https://img.shields.io/badge/-UNITY-ebebeb?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)
+![Unity Badge](https://img.shields.io/badge/-UNITY-a1cdff?style=for-the-badge&labelColor=3b4e80&logo=unity&logoColor=white)
 [![Unix Badge](https://img.shields.io/badge/-UNIX-ebebeb?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Unix)
 [![C Badge](https://img.shields.io/badge/-C_coding-53F4FA?style=for-the-badge&labelColor=136C99&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
