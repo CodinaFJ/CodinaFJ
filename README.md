@@ -1,6 +1,6 @@
 ## Javier Codina here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I am a games developer at Raccoon and Sheep, where I work most of my time. Although I also love spending time coding different projects or developing games for Game Jams.
+I am a software developer, always im the look for new challenges and experiences. Although I currently spend most of my coding time developing projects at 42 Madrid, I also love developing videogames or prototypes (check my itch.io).
 
 Contact me at:
 
@@ -9,7 +9,7 @@ Contact me at:
 [![Mail Badge](https://img.shields.io/badge/-Javier_Codina-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fjavier.codina@gmail.com)
 [![Itch.io Badge](https://img.shields.io/badge/-codinaFJ-fa5c5c?style=flat&labelColor=fa5c5c&logo=itch.io&logoColor=white)](https://codinafj.itch.io/)
 
-- :stars: Currently working on [Nova: Cloudwalker's Tale.](https://novathegame.carrd.co/)
+- :stars: Currently using way more time than I should beating the AOC_2023 with C language
 - :blue_book: Student at 42 Madrid. You can check my progress! -> [42 School Projects](https://github.com/CodinaFJ/42projects)
 - :mag: Always looking for new projects and people to work with
 - :mailbox: How to reach me: fjavier.codina@gmail.com
