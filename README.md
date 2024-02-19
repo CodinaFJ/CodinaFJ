@@ -18,8 +18,8 @@ Contact me at:
 <br />
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Javier's Github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rphlr&layout=compact&theme=midnight-purple" alt="Top Languages" />
+	<img src="https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="Javier's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ![Unity Badge](https://img.shields.io/badge/-UNITY-d1fff3?style=for-the-badge&labelColor=406b6e&logo=unity&logoColor=white)
