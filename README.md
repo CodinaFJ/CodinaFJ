@@ -18,7 +18,7 @@ Contact me at:
 <br />
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="Javier's Github stats">
+	![codinaFJ's Stats](https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
