@@ -17,10 +17,8 @@ Contact me at:
 
 <br />
 
-<div align="center">
-	![codinaFJ's Stats](https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+![codinaFJ's Stats](https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![codinaFJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 ![Unity Badge](https://img.shields.io/badge/-UNITY-d1fff3?style=for-the-badge&labelColor=406b6e&logo=unity&logoColor=white)
 [![Unix Badge](https://img.shields.io/badge/-UNIX-ebebeb?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Unix)
