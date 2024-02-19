@@ -17,6 +17,11 @@ Contact me at:
 
 <br />
 
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Javier's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rphlr&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</div>
+
 ![Unity Badge](https://img.shields.io/badge/-UNITY-d1fff3?style=for-the-badge&labelColor=406b6e&logo=unity&logoColor=white)
 [![Unix Badge](https://img.shields.io/badge/-UNIX-ebebeb?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Unix)
 [![C Badge](https://img.shields.io/badge/-C_code-93BDFF?style=for-the-badge&labelColor=374760&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
