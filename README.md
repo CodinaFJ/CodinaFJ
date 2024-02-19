@@ -25,7 +25,7 @@ Contact me at:
 [![C++ Badge](https://img.shields.io/badge/-C++_code-B2B6FF?style=for-the-badge&labelColor=434460&logo=c%2B%2B&logoColor=white)](https://es.wikipedia.org/wiki/C%2B%2B)
 [![C# Badge](https://img.shields.io/badge/-CSharp_code-DB93FF?style=for-the-badge&labelColor=523760&logo=Csharp&logoColor=white)](https://es.wikipedia.org/wiki/C_Sharp)
 
-
+[![jcodina-'s 42 stats](https://badge.mediaplus.ma/darkgray/jcodina-?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ![codinaFJ's Stats](https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
 #### Business
