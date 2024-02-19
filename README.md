@@ -19,7 +19,7 @@ Contact me at:
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="Javier's Github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ![Unity Badge](https://img.shields.io/badge/-UNITY-d1fff3?style=for-the-badge&labelColor=406b6e&logo=unity&logoColor=white)
