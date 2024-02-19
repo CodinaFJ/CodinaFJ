@@ -15,6 +15,8 @@ I am a software developer, always im the look for new challenges and experiences
 
 ![codinaFJ's Stats](https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
+---
+
 #### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Javier_Codina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjaviercodina/)
