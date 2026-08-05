@@ -10,10 +10,6 @@ I am a software developer, always im the look for new challenges and experiences
 
 <br />
 
-![codinaFJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
-
-![codinaFJ's Stats](https://github-readme-stats.vercel.app/api?username=codinaFJ&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 #### Contact:
